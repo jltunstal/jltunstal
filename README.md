@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a python project
-- 📫 How to reach me: jltunstal@gmail.com
+- 📫 How to reach me: jltunstal@jacktunstall.us
 
 <!---
 jltunstal/jltunstal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
